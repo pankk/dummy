@@ -7,5 +7,7 @@ Feel free to write here what you prefer...
 
 Hello world
 
+hELLO WORLD
+
 Here is a source for a centralized workflow using git:
 https://www.atlassian.com/git/workflows#!workflow-centralized
