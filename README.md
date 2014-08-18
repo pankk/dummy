@@ -11,5 +11,3 @@ The quick brown fox jumps over a lazy dog!
 
 And one in Italian:
 Ma la volpe, col suo balzo, ha raggiunto il quieto Fido.
-
-Try the revert functionality...
