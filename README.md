@@ -13,5 +13,3 @@ And one in Italian:
 Ma la volpe, col suo balzo, ha raggiunto il quieto Fido.
 
 Try the revert functionality...
-
-Another commit to be reverted... Try the older one first
